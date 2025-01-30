@@ -37,12 +37,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=GITSN00ZE&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/GITSN00ZE/GITSN00ZE/output/snake.svg" alt="Snake animation" />
