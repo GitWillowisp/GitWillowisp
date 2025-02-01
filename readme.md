@@ -1,11 +1,23 @@
-<div align="left">
+<br clear="both">
+
+<h2 align="center">- Tech Stack -</h2>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="30" alt="groovy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -16,11 +28,19 @@
 
 <br clear="both">
 
+<h2 align="center">- Contributions -</h2>
+
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/GITSN00ZE/GITSN00ZE/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJxbGRiMHd3eTRucjF1bnYwa2x2eWt6MzFvcXZsaDEzZ2drOXNlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4QxQgWZHbeYwM/giphy.gif"  />
+<br clear="both">
+
+<h2 align="center">- Links -</h2>
 
 ###
 
@@ -37,5 +57,13 @@
 ###
 
 <h4 align="center">Make sure to check out my Minecraft mods, and other Java and Kotlin related projects I am working on! :3</h4>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GITSN00ZE.GITSN00ZE&left_color=lightpink&right_color=skyblue&left_text=Visits:"  />
+</div>
 
 ###
