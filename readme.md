@@ -11,6 +11,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
