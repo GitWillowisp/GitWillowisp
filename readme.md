@@ -34,6 +34,4 @@
 
 <h3 align="center">I am a Trans/Pansexual American Software Engineer who specializes in the Rust programming language and the functional programming paradigm, while also knowing a lot about the object oriented paradigm.</h3>
 
-###e.svg" alt="Snake animation" />
-
 ###
