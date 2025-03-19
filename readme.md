@@ -3,15 +3,17 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/neovim/57A143" height="30" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bevy" height="30" alt="bevy logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white&style=for-the-badge" height="30" alt="nixos logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
 </div>
 
 ###
