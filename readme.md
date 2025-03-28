@@ -3,17 +3,19 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bevy" height="30" alt="bevy logo"  />
+  <img src="https://cdn.simpleicons.org/cmake/064F8C" height="30" alt="cmake logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo"  />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white&style=for-the-badge" height="30" alt="nixos logo"  />
+  <img src="https://cdn.simpleicons.org/opengl/5586A4" height="30" alt="opengl logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
+  <img src="https://cdn.simpleicons.org/neovim/57A143" height="30" alt="neovim logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
 </div>
 
 ###
@@ -34,6 +36,6 @@
 
 <br clear="both">
 
-<h3 align="center">I am a Trans/Pansexual American Software Engineer who specializes in the Rust programming language and the functional programming paradigm, while also knowing a lot about the object oriented paradigm.</h3>
+<h3 align="center">Transfem Game Developer c(*~.~)b</h3>
 
 ###
